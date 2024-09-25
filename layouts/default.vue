@@ -7,7 +7,7 @@
       <img src="/Ravi Teja.jpg" alt="my Photo" class="w-40 h-40 rounded-full mx-auto mb-4 border-4 border-blue-400 transition-transform duration-300 hover:transform hover:scale-105" />
 
       <!-- Navigation Links -->
-      <nav class="flex justify-center space-x-4">
+      <nav class="flex justify-center space-x-3">
         <nuxt-link to="/" class="text-white hover:text-blue-300 transition duration-300">Home</nuxt-link>
         <nuxt-link to="/details/projects" class="text-white hover:text-blue-300 transition duration-300">Projects</nuxt-link>
         <nuxt-link to="/details/internship" class="text-white hover:text-blue-300 transition duration-300">Internship</nuxt-link>
